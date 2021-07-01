@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img alt="Happy" title="Happy" src="src\assets\images\logo.svg" />
+    <img alt="Happy" title="LetMeask" src="src\assets\images\logo.svg" />
 </h1>
 
 <p align="center">
