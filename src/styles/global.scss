@@ -1,0 +1,27 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  
+body {
+    background: #f8f8f8;
+    color: #29292e;
+  }
+  
+body, input, button, textarea {
+    font: 400 16px 'Roboto', sans-serif;
+  }
+
+.change-theme {
+
+  &.dark{ 
+    color: #FFF;
+  }
+
+  border: 0; 
+  background: transparent;
+  position: fixed;
+  top: 95%;
+  right: 10px;
+}
